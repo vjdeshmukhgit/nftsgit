@@ -1,4 +1,11 @@
 # mdas-ii
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
 MDAS Tech Challenge Tasks
 1. A maximum of 10,000 characters (not including spaces). ~ 3 pages 
 2. A maximum of 10 diagrams/images. See list of graphics under solution.pdf.	 
@@ -7,7 +14,7 @@ MDAS Tech Challenge Tasks
 5. Solution description with a hierarchy list of core technologies used including a single level architecture diagram 
   5.  Validate tools against final used (Sai’s spreadsheet needs to be validated with team for tools used)  
   5.  Update spreadsheet for final confirmed tools 
-  5.  Update TCC SecDevOps picture with the tools used  
+  5.
   -  Create a single page architecture based on Netflix example provided 
   -  AWS infrastructure Diagram  
   -  Solution description for 3 pages 
