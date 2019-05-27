@@ -23,10 +23,15 @@ solution.
 1. Verify AWS CLI (aws-cli/1.16.165 Python/3.6.0 Windows/10 botocore/1.12.155) is installed. Click [here](https://aws.amazon.com/cli/) to download the version
 1. Setup AWS environment to the correct account and region by running the **aws configure** command from command prompt
 1. Verify **make.exe** is installed and in the path. If not installed follow the [instructions](https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058) to setup. 
-   1.  The git location will be at location - C:\Users\<username>\AppData\Local\Programs\Git\mingw64
+   1.  The git location will be at location - C:\Users\**username**\AppData\Local\Programs\Git\mingw64
    1.  Copy the downloaded make.exe to **bin** folder
-1. Copy the openShift_rsa file to the .ssh folder located in c:\users<username> folder
+1. Copy the openShift_rsa file to the **.ssh** folder located in c:\users\**username** folder
 
+The scripts performs the following tasks:
+1. Create VPC, Subnet, Internet Gateway, S3 bucket, Openshift cluster and EC2 instances
+1. Setup Security Groups, Route Tables
+1. Install build tools - Jenkins, Nexus, and SonarQube in Openshift
+1. Create the Dev, Test and Prod environments with the above resources. Only the Dev environment will have the build tools. 
 
 
 
