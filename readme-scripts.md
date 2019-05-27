@@ -5,9 +5,9 @@ MDAS Tech Challenge Tasks
 3. Instructions for deploying the solution in an AWS account, provide system requirements/assumptions to run the script	John / Andrew 
 4. Repository hierarchy list
 5. Solution description with a hierarchy list of core technologies used including a single level architecture diagram 
-  - validate tools against final used (Sai’s spreadsheet needs to be validated with team for tools used)  
-  - update spreadsheet for final confirmed tools 
-  - Update TCC SecDevOps picture with the tools used  
+  5.1 validate tools against final used (Sai’s spreadsheet needs to be validated with team for tools used)  
+  5.2 update spreadsheet for final confirmed tools 
+  -- Update TCC SecDevOps picture with the tools used  
   - Create a single page architecture based on Netflix example provided 
   - AWS infrastructure Diagram  
   - Solution description for 3 pages 
