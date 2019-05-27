@@ -1,21 +1,4 @@
-# mdas-ii
-MDAS Tech Challenge Tasks
-1. A maximum of 10,000 characters (not including spaces). ~ 3 pages 
-1. A maximum of 10 diagrams/images. See list of graphics under solution.pdf.	 
-1. Instructions for deploying the solution in an AWS account, provide system requirements/assumptions to run the script	John / Andrew 
-1. Repository hierarchy list
-1. Solution description with a hierarchy list of core technologies used including a single level architecture diagram 
-   1.  Validate tools against final used (Sai’s spreadsheet needs to be validated with team for tools used)  
-   1.  Update spreadsheet for final confirmed tools 
-   1.
-   1.  Create a single page architecture based on Netflix example provided 
-   1.  AWS infrastructure Diagram  
-   1.  Solution description for 3 pages 
-
-1. Instructions for running from code to full deployment 
-1. Consideration of the stability, maintainability (including fault tolerance and monitoring), and scalability security of the 
-solution.
-
+# mdas-ii Readme
 ## Pre-requisites to run the automation script 
 1. Verify Terraform version 0.11.13 is installed. Click [here](https://releases.hashicorp.com/terraform/0.11.13/) to download the version
 1. Verify git (2.21.0.windows.1) bash (version 4.4.23(1)-release (x86_64-pc-msys)) is installed. Click [here](https://git-scm.com/download/win) to download the version
