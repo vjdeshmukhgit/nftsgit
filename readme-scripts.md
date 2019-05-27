@@ -8,19 +8,19 @@
 
 MDAS Tech Challenge Tasks
 1. A maximum of 10,000 characters (not including spaces). ~ 3 pages 
-2. A maximum of 10 diagrams/images. See list of graphics under solution.pdf.	 
-3. Instructions for deploying the solution in an AWS account, provide system requirements/assumptions to run the script	John / Andrew 
-4. Repository hierarchy list
-5. Solution description with a hierarchy list of core technologies used including a single level architecture diagram 
-  5.  Validate tools against final used (Sai’s spreadsheet needs to be validated with team for tools used)  
-  5.  Update spreadsheet for final confirmed tools 
-  5.
-  -  Create a single page architecture based on Netflix example provided 
-  -  AWS infrastructure Diagram  
-  -  Solution description for 3 pages 
+1. A maximum of 10 diagrams/images. See list of graphics under solution.pdf.	 
+1. Instructions for deploying the solution in an AWS account, provide system requirements/assumptions to run the script	John / Andrew 
+1. Repository hierarchy list
+1. Solution description with a hierarchy list of core technologies used including a single level architecture diagram 
+  1.  Validate tools against final used (Sai’s spreadsheet needs to be validated with team for tools used)  
+  1.  Update spreadsheet for final confirmed tools 
+  1.
+  1.  Create a single page architecture based on Netflix example provided 
+  1.  AWS infrastructure Diagram  
+  1.  Solution description for 3 pages 
 
-6. Instructions for running from code to full deployment 
-7. Consideration of the stability, maintainability (including fault tolerance and monitoring), and scalability security of the 
+1. Instructions for running from code to full deployment 
+1. Consideration of the stability, maintainability (including fault tolerance and monitoring), and scalability security of the 
 solution.
 
 
