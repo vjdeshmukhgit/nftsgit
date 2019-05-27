@@ -16,8 +16,7 @@ MDAS Tech Challenge Tasks
 1. Consideration of the stability, maintainability (including fault tolerance and monitoring), and scalability security of the 
 solution.
 
-
-## Instructions for deploying the solution in an AWS account
+## Pre-requisites to run the automation script 
 1. Verify Terraform version 0.11.13 is installed. Click [here](https://releases.hashicorp.com/terraform/0.11.13/) to download the version
 1. Verify git (2.21.0.windows.1) bash (version 4.4.23(1)-release (x86_64-pc-msys)) is installed. Click [here](https://git-scm.com/download/win) to download the version
 1. Verify AWS CLI (aws-cli/1.16.165 Python/3.6.0 Windows/10 botocore/1.12.155) is installed. Click [here](https://aws.amazon.com/cli/) to download the version
@@ -26,6 +25,9 @@ solution.
    1.  The git location will be at location - C:\Users\**username**\AppData\Local\Programs\Git\mingw64
    1.  Copy the downloaded make.exe to **bin** folder
 1. Copy the openShift_rsa file to the **.ssh** folder located in c:\users\**username** folder
+
+## Instructions for deploying the solution in an AWS account
+
 
 The scripts performs the following tasks:
 1. Create VPC, Subnet, Internet Gateway, S3 bucket, Openshift cluster and EC2 instances
