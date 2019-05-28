@@ -14,10 +14,10 @@
 
 
 The scripts performs the following tasks:
-1. Create VPC, Subnet, Internet Gateway, S3 bucket, Openshift cluster and EC2 instances
+1. Create VPC, Subnet, Internet Gateway, S3 bucket, Openshift cluster and SQS Queue and Lambda function. Within Openshift, the master, nodes, Jupyter Hub, Node.JS,Tomcat, SonarQube, Jenkins, Nexus, Jacoco, Jasmine and Protractor are installed
+1. Creates resources in 3 environments - Dev, Test and Prod. A docker image of application are created in Dev and deployed to Test and Prod.
 1. Setup Security Groups, Route Tables
-1. Install build tools - Jenkins, Nexus, and SonarQube in Openshift
-1. Create the Dev, Test and Prod environments with the above resources. Only the Dev environment will have the build tools. 
+1. After the script is complete it creates 2 URLs: 1) Web Application 2) Jupyter Notebook
 
 
 
